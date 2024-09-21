@@ -1,6 +1,6 @@
 # Rodando para o Hackers do Bem
 
-Via docker
+Via docker.
 
 ```
 docker-compose up
